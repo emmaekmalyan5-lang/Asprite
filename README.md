@@ -1,2 +1,5 @@
-.
-/build/bin/aseprite.exe
+__Asprite.exe__
+
+
+
+./build/bin/aseprite.exe
