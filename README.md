@@ -1,5 +1,4 @@
-___Asprite.exe___
-
+__ Asprite.exe __
 
 
 ./build/bin/aseprite.exe
